@@ -18,9 +18,9 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 250;
+	margin: 350;
 	padding: 300;
-	border: 0;
+	border: 20;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
